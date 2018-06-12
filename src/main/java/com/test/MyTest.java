@@ -12,6 +12,8 @@ public class MyTest {
 		System.out.println("This is DevA");
 		System.out.println("This is devB");
 		System.out.println("This is original debB branch");
+		System.out.println("This is upgrated debB branch");
+		
 	}
 
 }
