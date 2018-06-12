@@ -7,5 +7,14 @@ public class MyTest {
 		System.out.println("Main test");
 	
 	}
+	public static void display(){
+
+		System.out.println("This is DevA");
+
+		System.out.println("This is devB");
+		
+		
+
+	}
 
 }
